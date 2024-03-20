@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Exercicio-1-Stage-4",
+			"path": "."
+		},
+		{
+			"name": "Algoritmo e Lógica da programação",
+			"path": "../Algoritmo e Lógica da programação"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Exercicio-1-Stage-4"
+	}
+}
